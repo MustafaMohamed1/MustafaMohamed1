@@ -24,7 +24,7 @@ I'm always looking to learn more and improve my skills. I'm particularly interes
 - Microsoft Certified: Azure Fundamentals
   
 
-🤝 I'm always open to connecting with others who share my passion for cybersecurity and DevOps. Feel free to reach out and say hello!
+🤝 I'm always open to connecting with others who share my passion for DevOps. Feel free to reach out and say hello!
 
 <h2> 🤳 Connect with me:</h2>
 
