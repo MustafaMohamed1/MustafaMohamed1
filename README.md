@@ -5,7 +5,7 @@ Passionate about Tech 🤖
 
 DevOps Enthusiast 🛡️☁️🔒
 
-I'm always looking to learn more and improve my skills. I'm particularly interested in DevSecOps, and I'm excited about the potential that these areas offer for improving of our digital world.
+I'm always looking to learn more and improve my skills. I'm particularly interested in DevSOps, and I'm excited about the potential that these areas offer for improving of our digital world.
 
 <h2>🔍 Current Projects: </h2>
 
